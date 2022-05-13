@@ -3,7 +3,6 @@ import { MongoClient } from "mongodb";
 main();
 
 function main() {
-  
   // createDB(uri, "School");
   //   createCollection(getClient(), "School", "Teachers");
   //   createCollection(getClient(), "School", "Subjects");
