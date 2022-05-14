@@ -9,24 +9,24 @@ function main() {
   //     deleteCollection(getClient(), "School", "Teachers");
   //   deleteCollection(getClient(), "School", "Subjects");
   const teacher = {
-    name: "Codamy",
+    name: "FakeCode",
     year: 2021,
   };
   const teachers = [
     {
-      name: "Codamy1",
+      name: "FakeCode1",
       year: 2021,
     },
     {
-      name: "Codamy2",
+      name: "FakeCode2",
       year: 2021,
     },
     {
-      name: "Codamy3",
+      name: "FakeCode3",
       year: 2021,
     },
     {
-      name: "Codamy4",
+      name: "FakeCode4",
       year: 2021,
     },
   ];
